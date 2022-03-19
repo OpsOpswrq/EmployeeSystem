@@ -1,0 +1,8 @@
+spring:
+  messages:
+    encoding: UTF-8
+    basename: i18n/login
+  mvc:
+    date-format: yyyy-MM-dd HH:mm:ss
+    favicon:
+      enable: false
